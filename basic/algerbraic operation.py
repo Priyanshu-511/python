@@ -1,0 +1,11 @@
+a = int(input("enter the first number: "))
+b = int(input("enter the another number: "))
+
+print("sum: ",a+b)
+print("first - second: ",a-b)
+print("product: ",a*b)
+print("it's first/second: ",a/b)
+print("it's second/first: ",b/a)
+print("floor division: ", a//b )
+print("modulus (reainder): ", a%b)
+print("it is exponential: ", a**b)
